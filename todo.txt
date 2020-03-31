@@ -1,0 +1,1 @@
+<!-->for header flex: remove 3 containers and in css just refer to the element ex "header img {}"</!-->
