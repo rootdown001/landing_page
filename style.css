@@ -25,9 +25,9 @@ header > p {
 
 .highlight {
   background-color: #EAEAEA;
-  width: 90%;
-  margin: 15px auto;
-  padding: 15px 0;
+  width: 75%;
+  margin: 25px auto;
+  padding: 25px 0;
   display: flex;
   border-radius: 10px;
 }
@@ -45,7 +45,7 @@ flex: 1.5;
 #lance_liz {
 
   margin: auto auto;
-  width: 48%;
+  width: 54%;
 }
 
 p.large {
