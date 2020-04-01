@@ -4,6 +4,11 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+
+}
+
+#page_wrapper {
+  background-color: #7A9388;
 }
 
 #header  {
@@ -53,8 +58,8 @@ display: flex;
 .highlight {
   background-color: #EAEAEA;
   width: 75%;
-  margin: 10px auto;
-  padding: 25px 0;
+  margin: 25px auto;
+  padding: 15px 0;
   display: flex;
   border-radius: 10px;
 }
