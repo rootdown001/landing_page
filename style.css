@@ -58,7 +58,9 @@ display: flex;
 .highlight {
   background-color: #EAEAEA;
   width: 75%;
-  margin: 25px auto;
+  margin: auto;
+  margin-top: 15px;
+  margin-bottom: 10px;
   padding: 15px 0;
   display: flex;
   border-radius: 10px;
@@ -90,7 +92,13 @@ p.large {
   color: #52615B;
 }
 
-
+#items {
+  background-color: #EAEAEA;
+  width: 75%;
+  margin: 5px auto;
+  padding: 25px 0;
+  border-radius: 10px;
+}
 
 
 
@@ -119,6 +127,7 @@ footer > ul > li > a {
 
 footer > span {
   margin-top: 5px;
+  margin-bottom: 5px;
   display: flex;
   justify-content: flex-end;
   font-size: 0.9em;
