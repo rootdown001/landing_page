@@ -84,3 +84,38 @@ p.large {
 #focus {
   color: #52615B;
 }
+
+
+
+
+
+
+footer {
+  background-color: #EAEAEA;
+  width: 75%;
+  margin: 10px auto;
+  padding: 25px 0;
+  border-radius: 10px;
+}
+
+footer > ul {
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer > ul > li {
+  padding: 0 10px;
+  list-style: none;
+}
+
+footer > ul > li > a {
+  color: #52615B
+}
+
+footer > span {
+  margin-top: 5px;
+  display: flex;
+  justify-content: flex-end;
+  font-size: 0.9em;
+  color: #52615B;
+}
