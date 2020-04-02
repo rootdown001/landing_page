@@ -88,6 +88,8 @@ display: flex;
 
 
 
+
+
 .highlight {
   background-color: #EAEAEA;
   width: 75%;
@@ -109,6 +111,12 @@ display: flex;
 flex: 1.5;
 }
 
+
+
+
+
+
+
 #lance_liz {
   margin: auto auto;
   width: 65%;
@@ -124,6 +132,38 @@ p.large {
 #focus {
   color: #52615B;
 }
+
+@media (max-width: 1060px) {
+
+  .highlight {
+display: flex;
+flex-direction: column;
+  }
+  
+  #words_container {
+    display: flex;
+  }
+  
+  #pic_container {
+  display: flex;
+  }
+  p.large {
+    font-size: 36pt;
+    padding: 10px 0px;
+  }
+}
+
+@media (max-width: 690px) {
+
+  p.large {
+    font-size: 24pt;
+    padding: 10px 0px;
+  }
+}
+
+
+
+
 
 #contact {
   background-color: #EAEAEA;
