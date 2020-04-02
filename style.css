@@ -7,8 +7,15 @@
 
 }
 
-#page_wrapper {
-  background-color: #7A9388;
+
+body {
+
+
+    background: linear-gradient(90deg, #92A69D, #DAE1DE);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
 }
 
 #header  {
@@ -55,6 +62,9 @@ display: flex;
   font-size: 14pt;
 }
 
+
+
+
 .highlight {
   background-color: #EAEAEA;
   width: 75%;
@@ -98,6 +108,23 @@ p.large {
   margin: 5px auto;
   padding: 25px 0;
   border-radius: 10px;
+}
+
+#contact h2 {
+    color: #2E2E2E;
+    font-size: 18pt;
+    margin: auto;
+    padding-left: 60px;
+}
+
+#form {
+  color: #2E2E2E;
+  font-size: 14pt;
+  margin: auto;
+  padding-left: 60px;
+
+
+
 }
 
 footer {
