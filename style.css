@@ -181,6 +181,19 @@ padding: 3px;
 margin: 5px;
 }
 
+#testimonial {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+#testimonial > iframe {
+  max-width: 560px;
+  width: 100%;
+}
+
+
+
 footer {
   background-color: #EAEAEA;
   width: 75%;
